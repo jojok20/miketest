@@ -1,1 +1,2 @@
 one line from master
+one line from line1
